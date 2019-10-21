@@ -1,0 +1,7 @@
+name: EuphaWarp
+version: 1.0
+author: Dinnerwolph
+main: net.euphalys.euphawarp.EuphaWarp
+depend: [Multiverse-Core]
+commands:
+  warp:
